@@ -953,28 +953,25 @@ margin-left: 30%;
 }
 
 
-.coolray__btnbody button:hover{
-  transform: scale(1.1);
-  
+.brony-btn {
+  transition: 0.5s;
 }
-.brony-btn:hover{
+
+.brony-btn:hover {
   background-color: #4e86f8;
-  
 }
-.coolray__bt-drive{
+.coolray__bt-drive {
   transition: 0.5s;
   cursor: pointer;
 }
-.coolray__bt-drive:hover{
+.coolray__bt-drive:hover {
   background-color: #4e86f8;
-  
 }
-.coolray__bt{
+.coolray__bt {
   transition: 0.5s;
 }
-.coolray__bt:hover{
+.coolray__bt:hover {
   background-color: #4e86f8;
-  
 }
 
 
